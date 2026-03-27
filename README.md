@@ -28,7 +28,7 @@ Si quieres probar este componente localmente, sigue estos pasos:
 
 ## 📸 Vista Previa
 
-![Vista previa del Header](./code/img/gathsession.png)
+![Vista previa del Header](./img/gathsession.png)
 
 ---
 Desarrollado con ❤️ por [Laura Sace](https://github.com/Laurasace93)
