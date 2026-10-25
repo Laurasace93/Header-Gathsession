@@ -435,3 +435,40 @@ body {
   left: 70%;
   top: 100px;
 }
+
+/* efectos Hover  */
+
+.btn-primary {
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: #c21f5c;
+  transform: translateY(-2px);
+}
+
+.lean-more {
+  transition: color 0.2s ease;
+  cursor: pointer;
+}
+
+.lean-more:hover {
+  color: var(--pink);
+}
+
+.nav a {
+  transition: color 0.2s ease;
+}
+
+.nav a:hover,
+.nav a:focus-visible {
+  color: var(--pink);
+}
+
+.hero-secundary article {
+  transition: transform 0.2s ease;
+}
+
+.hero-secundary article:hover {
+  transform: translateY(-5px);
+}
